@@ -1,52 +1,47 @@
-id: 1b4a6a34ad3c4965b0d95574893469ca
+id: 707ef4ff5c00491a9f581ef4bef77421
 annotation_type: Pagination
 revision: '00001'
 annotations:
-  cb7cfb0e1c754a09b816ddf1c743cf4d:
+  d6da453e700e4448a06dc97d832cf88a:
     imgnum: 780
     reference: ''
     span:
       start: 0
-      end: 746
-    note_ref: 96f45f8f034f42efbfd4d261ca145fbb
-  d56976eb65c64e578d4cee83187aaee4:
+      end: 744
+  731e0935306e4c01ab6dabe48865b28a:
     imgnum: 781
     reference: ''
     span:
-      start: 749
-      end: 2102
-    note_ref: 96f45f8f034f42efbfd4d261ca145fbb
-  50b816fcfdce4358a0113eafcf3eeaa7:
+      start: 747
+      end: 2098
+  55fbd7d6062b4358b124ce4c44650abd:
     imgnum: 782
     reference: ''
     span:
-      start: 2105
-      end: 3486
-    note_ref: 96f45f8f034f42efbfd4d261ca145fbb
-  550110245e534a559a8505ad19a3d8ac:
+      start: 2101
+      end: 3480
+  291115cf21e54e5eb90842efd98f0f93:
     imgnum: 783
     reference: ''
     span:
-      start: 3489
-      end: 4824
-    note_ref: 96f45f8f034f42efbfd4d261ca145fbb
-  98d0299a8bfd41d785a29ddf34bf701c:
+      start: 3483
+      end: 4816
+  89bb44d6e8b8488bac7753ab57bb7068:
     imgnum: 784
     reference: ''
     span:
-      start: 4827
-      end: 5353
-    note_ref: 96f45f8f034f42efbfd4d261ca145fbb
-  96f45f8f034f42efbfd4d261ca145fbb:
+      start: 4819
+      end: 5343
+  0de5ed3a87bb41f1baa20e5600502d4e:
     imgnum: 785
     reference: ''
     span:
-      start: 5356
-      end: 5702
+      start: 5346
+      end: 5688
 local_ids:
-  cb7cfb0e1c754a09b816ddf1c743cf4d: 200000
-  d56976eb65c64e578d4cee83187aaee4: 200001
-  50b816fcfdce4358a0113eafcf3eeaa7: 200002
-  550110245e534a559a8505ad19a3d8ac: 200003
-  98d0299a8bfd41d785a29ddf34bf701c: 200004
-  96f45f8f034f42efbfd4d261ca145fbb: 200005
+  d6da453e700e4448a06dc97d832cf88a: 200000
+  731e0935306e4c01ab6dabe48865b28a: 200001
+  55fbd7d6062b4358b124ce4c44650abd: 200002
+  291115cf21e54e5eb90842efd98f0f93: 200003
+  89bb44d6e8b8488bac7753ab57bb7068: 200004
+  0de5ed3a87bb41f1baa20e5600502d4e: 200005
